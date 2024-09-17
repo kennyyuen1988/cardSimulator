@@ -1,0 +1,364 @@
+{
+  "leaderCard": {
+    "cardNumber": "op09-081",
+    "name": "馬歇爾・D・汀奇",
+    "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png?240831",
+    "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-15"
+  },
+  "donCard": {
+    "name": "don",
+    "imageUrl": "https://shoplineimg.com/6354be32d7b7b100301d7046/66a721307d3380b76a23891c/720x.webp?source_format=png"
+  },
+  "cards": [
+    {
+      "id": "0",
+      "cardNumber": "EB01-048",
+      "name": "拉布",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/EB01-048.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-1"
+    },
+    {
+      "id": "1",
+      "cardNumber": "EB01-048",
+      "name": "拉布",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/EB01-048.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-1"
+    },
+    {
+      "id": "2",
+      "cardNumber": "EB01-048",
+      "name": "拉布",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/EB01-048.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-1"
+    },
+    {
+      "id": "3",
+      "cardNumber": "EB01-048",
+      "name": "拉布",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/EB01-048.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-1"
+    },
+    {
+      "id": "4",
+      "cardNumber": "OP05-081",
+      "name": "單腳士兵",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP05-081_p3.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-7"
+    },
+    {
+      "id": "5",
+      "cardNumber": "OP05-081",
+      "name": "單腳士兵",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP05-081_p3.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-7"
+    },
+    {
+      "id": "6",
+      "cardNumber": "OP05-081",
+      "name": "單腳士兵",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP05-081_p3.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-7"
+    },
+    {
+      "id": "7",
+      "cardNumber": "OP08-079",
+      "name": "海道",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-079.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-8"
+    },
+    {
+      "id": "8",
+      "cardNumber": "OP08-079",
+      "name": "海道",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-079.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-8"
+    },
+    {
+      "id": "9",
+      "cardNumber": "OP08-079",
+      "name": "海道",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-079.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-8"
+    },
+    {
+      "id": "10",
+      "cardNumber": "OP08-082",
+      "name": "佐佐木",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-082.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-10"
+    },
+    {
+      "id": "11",
+      "cardNumber": "OP08-082",
+      "name": "佐佐木",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-082.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-10"
+    },
+    {
+      "id": "12",
+      "cardNumber": "OP08-082",
+      "name": "佐佐木",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-082.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-10"
+    },
+    {
+      "id": "13",
+      "cardNumber": "OP08-082",
+      "name": "佐佐木",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-082.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-10"
+    },
+    {
+      "id": "14",
+      "cardNumber": "OP08-084",
+      "name": "JACK",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-084.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-11"
+    },
+    {
+      "id": "15",
+      "cardNumber": "OP08-084",
+      "name": "JACK",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-084.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-11"
+    },
+    {
+      "id": "16",
+      "cardNumber": "OP08-084",
+      "name": "JACK",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-084.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-11"
+    },
+    {
+      "id": "17",
+      "cardNumber": "OP08-084",
+      "name": "JACK",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP08-084.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-11"
+    },
+    {
+      "id": "18",
+      "cardNumber": "OP09-083",
+      "name": "范・歐葛",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-16"
+    },
+    {
+      "id": "19",
+      "cardNumber": "OP09-083",
+      "name": "范・歐葛",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-16"
+    },
+    {
+      "id": "20",
+      "cardNumber": "OP09-083",
+      "name": "范・歐葛",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-16"
+    },
+    {
+      "id": "21",
+      "cardNumber": "OP09-083",
+      "name": "范・歐葛",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-083.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-16"
+    },
+    {
+      "id": "22",
+      "cardNumber": "OP09-086",
+      "name": "吉札士・伯吉斯",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-17"
+    },
+    {
+      "id": "23",
+      "cardNumber": "OP09-086",
+      "name": "吉札士・伯吉斯",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-17"
+    },
+    {
+      "id": "24",
+      "cardNumber": "OP09-086",
+      "name": "吉札士・伯吉斯",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-17"
+    },
+    {
+      "id": "25",
+      "cardNumber": "OP09-086",
+      "name": "吉札士・伯吉斯",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-086.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-17"
+    },
+    {
+      "id": "26",
+      "cardNumber": "OP09-089",
+      "name": "壯馬",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-18"
+    },
+    {
+      "id": "27",
+      "cardNumber": "OP09-089",
+      "name": "壯馬",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-18"
+    },
+    {
+      "id": "28",
+      "cardNumber": "OP09-089",
+      "name": "壯馬",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-18"
+    },
+    {
+      "id": "29",
+      "cardNumber": "OP09-089",
+      "name": "壯馬",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-089.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-18"
+    },
+    {
+      "id": "30",
+      "cardNumber": "OP09-090",
+      "name": "Q醫生",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-19"
+    },
+    {
+      "id": "31",
+      "cardNumber": "OP09-090",
+      "name": "Q醫生",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-19"
+    },
+    {
+      "id": "32",
+      "cardNumber": "OP09-090",
+      "name": "Q醫生",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-19"
+    },
+    {
+      "id": "33",
+      "cardNumber": "OP09-090",
+      "name": "Q醫生",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-090.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-19"
+    },
+    {
+      "id": "34",
+      "cardNumber": "OP09-091",
+      "name": "巴斯可・簫特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-20"
+    },
+    {
+      "id": "35",
+      "cardNumber": "OP09-091",
+      "name": "巴斯可・簫特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-20"
+    },
+    {
+      "id": "36",
+      "cardNumber": "OP09-091",
+      "name": "巴斯可・簫特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-20"
+    },
+    {
+      "id": "37",
+      "cardNumber": "OP09-091",
+      "name": "巴斯可・簫特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-091.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-20"
+    },
+    {
+      "id": "38",
+      "cardNumber": "OP09-093",
+      "name": "馬歇爾・D・汀奇",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-23"
+    },
+    {
+      "id": "39",
+      "cardNumber": "OP09-093",
+      "name": "馬歇爾・D・汀奇",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-23"
+    },
+    {
+      "id": "40",
+      "cardNumber": "OP09-093",
+      "name": "馬歇爾・D・汀奇",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-23"
+    },
+    {
+      "id": "41",
+      "cardNumber": "OP09-093",
+      "name": "馬歇爾・D・汀奇",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-23"
+    },
+    {
+      "id": "42",
+      "cardNumber": "OP09-095",
+      "name": "拉菲特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-25"
+    },
+    {
+      "id": "43",
+      "cardNumber": "OP09-095",
+      "name": "拉菲特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-25"
+    },
+    {
+      "id": "44",
+      "cardNumber": "OP09-095",
+      "name": "拉菲特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-25"
+    },
+    {
+      "id": "45",
+      "cardNumber": "OP09-095",
+      "name": "拉菲特",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-095.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-25"
+    },
+    {
+      "id": "46",
+      "cardNumber": "OP09-096",
+      "name": "是我的時代啦!!!!",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-096.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-26"
+    },
+    {
+      "id": "47",
+      "cardNumber": "OP09-096",
+      "name": "是我的時代啦!!!!",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-096.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-26"
+    },
+    {
+      "id": "48",
+      "cardNumber": "OP09-096",
+      "name": "是我的時代啦!!!!",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-096.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-26"
+    },
+    {
+      "id": "49",
+      "cardNumber": "OP09-096",
+      "name": "是我的時代啦!!!!",
+      "imageUrl": "https://asia-hk.onepiece-cardgame.com/images/cardlist/card/OP09-096.png?240831",
+      "cardDetails": "https://asia-hk.onepiece-cardgame.com/cardlist/?freewords=OP09-081%20OP08-082%20OP09-089%20OP09-095%20OP05-081%20OP09-090%20OP09-091%20EB01-048%20OP09-086%20OP09-083%20OP08-084%20OP08-079%20OP09-093%20OP09-096#group_1-26"
+    }
+  ]
+}
